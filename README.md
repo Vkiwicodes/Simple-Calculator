@@ -16,7 +16,9 @@ When the program asks, enter your choice:
 - **3** for Multiplication
 - **4** for Division
 - **5** to exit
+
 Then enter the first and second number.
+
 The program performs the selected operation and displays the result. It continues running until you choose **5 (Exit)**
 
 ## files
